@@ -1,0 +1,15 @@
+SoOpen - VCS Workshop
+=====================
+
+- What can you do with a GIT repository ? 
+- What should you do with it ?
+- What must you NOT do with it ?
+
+Continuous testing
+------------------
+
+- `feature/jenkins-base`: https://c4science.ch/source/so-workshop/browse/feature%252Fjenkins-base/
+- `feature/jenkins-dockerfile`: https://c4science.ch/source/so-workshop/browse/feature%252Fjenkins-dockerfile/
+- `feature/jenkins-junit`: https://c4science.ch/source/so-workshop/browse/feature%252Fjenkins-junit/
+
+Add a modification to the readme
